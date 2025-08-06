@@ -1,17 +1,17 @@
 # Fire-Detection-Project
 Real-time Fire Detection using YOLOv8 and OpenCV for video-based hazard prevention.
 
-## 📌 Features
+##  Features
 
-- ✅ Real-time fire detection from webcam/video feed  
-- ✅ Built using YOLOv8 (You Only Look Once – v8)  
-- ✅ Integrated with OpenCV for video stream processing  
-- ✅ Alerts/logs potential fire hazards  
-- ✅ Lightweight and fast  
+- Real-time fire detection from webcam/video feed  
+-  Built using YOLOv8 (You Only Look Once – v8)  
+-  Integrated with OpenCV for video stream processing  
+-  Alerts/logs potential fire hazards  
+-  Lightweight and fast  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠 Technologies Used
 
 - Python 🐍  
 - YOLOv8 (Ultralytics)  
@@ -21,7 +21,7 @@ Real-time Fire Detection using YOLOv8 and OpenCV for video-based hazard preventi
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 Fire-Detection-Project/
 ├── fire_detection.py
