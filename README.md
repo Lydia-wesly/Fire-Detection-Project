@@ -58,16 +58,16 @@ python fire_detection.py
 
 Real-time fire detection in action
 
- License
+ **License**
 This project is licensed under the MIT License — see the LICENSE file for details.
 
- Acknowledgments
+ **Acknowledgments**
 Ultralytics YOLOv8
 
-OpenCV
+**OpenCV**
 
 Inspiration from real-world fire detection systems
 
- Contact
+** Contact**
 For any questions or feedback:
 lydiaawesly@gmail.com.com 
