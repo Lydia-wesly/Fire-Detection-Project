@@ -11,9 +11,9 @@ Real-time Fire Detection using YOLOv8 and OpenCV for video-based hazard preventi
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
-- Python 🐍  
+- Python   
 - YOLOv8 (Ultralytics)  
 - OpenCV  
 - NumPy  
@@ -24,14 +24,14 @@ Real-time Fire Detection using YOLOv8 and OpenCV for video-based hazard preventi
 ## Project Structure
 
 Fire-Detection-Project/
-├── fire_detection.py
-├── requirements.txt
-├── utils/
-│ └── helper_functions.py
-├── models/
-│ └── yolov8-fire.pt
-└── test_videos/
-└── sample_fire_video.mp4
+── fire_detection.py
+── requirements.txt
+── utils
+── helper_functions.py
+── models
+── yolov8-fire.pt
+── test_videos
+── sample_fire_video.mp4
 
 yaml
 Copy
@@ -54,20 +54,20 @@ bash
 Copy
 Edit
 python fire_detection.py
-🧪 Sample Output
+ Sample Output
 
 Real-time fire detection in action
 
-📄 License
+ License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-🙌 Acknowledgments
+ Acknowledgments
 Ultralytics YOLOv8
 
 OpenCV
 
 Inspiration from real-world fire detection systems
 
-💬 Contact
+ Contact
 For any questions or feedback:
-📧 lydiaawesly@gmail.com.com 
+lydiaawesly@gmail.com.com 
