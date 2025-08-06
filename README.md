@@ -37,9 +37,6 @@ yaml
 Copy
 Edit
 
----
-
-## 🚀 Getting Started
 
 1. **Clone the repository**  
    ```bash
@@ -74,11 +71,3 @@ Inspiration from real-world fire detection systems
 💬 Contact
 For any questions or feedback:
 📧 lydiaawesly@gmail.com.com 
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you want me to customize it with your actual script filenames or dataset details.
